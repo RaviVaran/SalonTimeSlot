@@ -1,4 +1,4 @@
-# bookingCalendarApp
+# SalonTimeSlot
 
 A new Flutter project.
 
