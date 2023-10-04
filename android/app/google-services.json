@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335723743736",
+    "project_id": "bookingcalendarapp-6f11b",
+    "storage_bucket": "bookingcalendarapp-6f11b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335723743736:android:0cca2a6f8224d6efc46e0d",
+        "android_client_info": {
+          "package_name": "com.mycompany.bookingcalendarapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLftRUVjF2gbdZZLmdokZhkyCiHLExyME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
